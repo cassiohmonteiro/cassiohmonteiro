@@ -34,6 +34,12 @@ Apenas um estudante interessado por tecnologia, em busca de novos aprendizados e
 <a href="https://www.linkedin.com/in/c%C3%A1ssio-henrique-1384622b3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Cassio%20Henrique&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cassiohmonteiro/cassiohmonteiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cassiohmonteiro/cassiohmonteiro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cassiohmonteiro/cassiohmonteiro/output/github-contribution-grid-snake.svg">
+</picture>
   
 
 
