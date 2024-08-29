@@ -28,9 +28,6 @@ Apenas um estudante interessado por tecnologia, em busca de novos aprendizados e
   <a href="https://www.instagram.com/cassioo__henrique/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=cassio__henrique&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://github.com/cassiohmonteiro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Cassio&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 <a href="https://www.linkedin.com/in/c%C3%A1ssio-henrique-1384622b3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Cassio%20Henrique&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
